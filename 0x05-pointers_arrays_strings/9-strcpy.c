@@ -2,7 +2,7 @@
 /**
  * _strcpy - string copies
  * @dest: destination array
- * @src: source
+ * @src: source array
  * Return: copied string
  */
 
