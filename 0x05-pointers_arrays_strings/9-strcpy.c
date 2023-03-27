@@ -1,11 +1,10 @@
 #include "main.h"
 /**
- * _strcpy - string copies
+ * _strcpy - copies string
  * @dest: destination array
  * @src: source array
  * Return: copied string
  */
-
 char *_strcpy(char *dest, char *src)
 {
 	int i;
@@ -14,4 +13,3 @@ char *_strcpy(char *dest, char *src)
 		dest[i] = src[i];
 	return (dest);
 }
-
